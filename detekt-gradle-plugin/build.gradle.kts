@@ -7,7 +7,7 @@ plugins {
     `java-test-fixtures`
     idea
     alias(libs.plugins.pluginPublishing)
-    id("org.gradle.test-retry") version "1.3.1"
+    id("org.gradle.test-retry") version "1.3.2"
 }
 
 detekt {
